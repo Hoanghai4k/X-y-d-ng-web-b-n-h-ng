@@ -1,0 +1,19 @@
+{
+  "name": "van-thcs-digital-store-agent-kit",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Antigravity-ready context and starter domain for a minimal Vietnamese digital document store.",
+  "scripts": {
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "typecheck": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "typescript": "^5.9.0",
+    "vitest": "^3.2.0"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "type": "module"
+}
